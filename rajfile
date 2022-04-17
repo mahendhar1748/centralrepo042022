@@ -5,7 +5,7 @@ class{
 }
 class{
  public static void main(string[] args){
-   System.out.println("hello raj from master branch");
+   System.out.println("hello raj tis is sec program");
 }
 }
 
