@@ -1,4 +1,4 @@
 print("hi hello and welcome")
 for p in range(10,20):
     print("hi hello and welcome")
-
+    print(p) 

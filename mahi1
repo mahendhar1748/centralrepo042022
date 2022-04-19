@@ -1,3 +1,5 @@
 print("hello world")
 for p in range(10):
     print(hello)
+for p in range(100):
+    print("hi mahendhar")
